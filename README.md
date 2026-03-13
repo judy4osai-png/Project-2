@@ -1,1 +1,14 @@
-# Project-2
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open Index.html",
+            "file": "c:\\Users\\judy4\\OneDrive\\Desktop\\December Advanced Webpage Design\\Index.html"
+        }
+    ]
+}
